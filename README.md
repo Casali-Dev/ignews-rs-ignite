@@ -59,6 +59,8 @@ Here are some technologies that I will use on this project, I will keep it updat
 - [React](https://pt-br.reactjs.org/)
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
+- [Stripe](https://stripe.com/)
 
 <br>
 
