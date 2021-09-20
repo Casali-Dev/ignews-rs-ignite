@@ -61,6 +61,7 @@ Here are some technologies that I will use on this project, I will keep it updat
 - [TypeScript](https://www.typescriptlang.org/)
 - [Sass](https://sass-lang.com/)
 - [Stripe](https://stripe.com/)
+- [FaunaDB](https://fauna.com/)
 
 <br>
 
